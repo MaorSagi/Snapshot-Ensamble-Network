@@ -7,7 +7,7 @@ Based on the paper of Huang et al., Snapshot Ensembles: Train 1, get M for free.
 <li>Notice your working directory is Snapshot-Ensamble-Network folder. otherwise run the command:</li>
 <code>cd Snapshot-Ensamble-Network</code>
 <li>Install all the libraries required by running the following command:</li>
-<code>pip install -r requirement.txt</code>
+<code>pip install -r requirements.txt</code>
 <li>In the consts file determine the parameters regarding to your needs.</li>
 <li>Run the project by running the command:</li>
 <code>python main.py</code>
