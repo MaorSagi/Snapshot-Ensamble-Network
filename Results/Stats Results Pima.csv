@@ -1,0 +1,17 @@
+,Dataset Name,Metric,p-value,Reject H0,Less
+0,Pima,Accuracy,0.662,0,1
+1,Pima,Accuracy,0.366,0,0
+2,Pima,TPR,0.5,0,1
+3,Pima,TPR,0.53,0,0
+4,Pima,FPR,0.323,0,1
+5,Pima,FPR,0.704,0,0
+6,Pima,Precision,0.634,0,1
+7,Pima,Precision,0.395,0,0
+8,Pima,AUC,1.0,0,1
+9,Pima,AUC,0.0,1,0
+10,Pima,AUPRC,0.786,0,1
+11,Pima,AUPRC,0.236,0,0
+12,Pima,Training Time,1.0,0,1
+13,Pima,Training Time,0.0,1,0
+14,Pima,Inference Time,1.0,0,1
+15,Pima,Inference Time,0.0,1,0

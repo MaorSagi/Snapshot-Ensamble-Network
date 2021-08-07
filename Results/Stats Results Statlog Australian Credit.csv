@@ -1,0 +1,17 @@
+,Dataset Name,Metric,p-value,Reject H0,Less
+0,Statlog Australian Credit,Accuracy,0.47,0,1
+1,Statlog Australian Credit,Accuracy,0.561,0,0
+2,Statlog Australian Credit,TPR,0.997,0,1
+3,Statlog Australian Credit,TPR,0.004,1,0
+4,Statlog Australian Credit,FPR,1.0,0,1
+5,Statlog Australian Credit,FPR,0.0,1,0
+6,Statlog Australian Credit,Precision,0.006,1,1
+7,Statlog Australian Credit,Precision,0.995,0,0
+8,Statlog Australian Credit,AUC,0.661,0,1
+9,Statlog Australian Credit,AUC,0.367,0,0
+10,Statlog Australian Credit,AUPRC,0.0,1,1
+11,Statlog Australian Credit,AUPRC,1.0,0,0
+12,Statlog Australian Credit,Training Time,1.0,0,1
+13,Statlog Australian Credit,Training Time,0.0,1,0
+14,Statlog Australian Credit,Inference Time,1.0,0,1
+15,Statlog Australian Credit,Inference Time,0.0,1,0

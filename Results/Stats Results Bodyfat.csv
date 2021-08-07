@@ -1,0 +1,17 @@
+,Dataset Name,Metric,p-value,Reject H0,Less
+0,Bodyfat,Accuracy,0.0,1,1
+1,Bodyfat,Accuracy,1.0,0,0
+2,Bodyfat,TPR,0.0,1,1
+3,Bodyfat,TPR,1.0,0,0
+4,Bodyfat,FPR,1.0,0,1
+5,Bodyfat,FPR,1.0,0,0
+6,Bodyfat,Precision,0.0,1,1
+7,Bodyfat,Precision,1.0,0,0
+8,Bodyfat,AUC,0.0,1,1
+9,Bodyfat,AUC,1.0,0,0
+10,Bodyfat,AUPRC,0.0,1,1
+11,Bodyfat,AUPRC,1.0,0,0
+12,Bodyfat,Training Time,1.0,0,1
+13,Bodyfat,Training Time,0.0,1,0
+14,Bodyfat,Inference Time,1.0,0,1
+15,Bodyfat,Inference Time,0.0,1,0

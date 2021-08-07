@@ -1,0 +1,17 @@
+,Dataset Name,Metric,p-value,Reject H0,Less
+0,Diggle,Accuracy,0.028,1,1
+1,Diggle,Accuracy,0.977,0,0
+2,Diggle,TPR,0.039,1,1
+3,Diggle,TPR,0.97,0,0
+4,Diggle,FPR,0.835,0,1
+5,Diggle,FPR,0.194,0,0
+6,Diggle,Precision,0.194,0,1
+7,Diggle,Precision,0.835,0,0
+8,Diggle,AUC,0.864,0,1
+9,Diggle,AUC,0.184,0,0
+10,Diggle,AUPRC,0.864,0,1
+11,Diggle,AUPRC,0.184,0,0
+12,Diggle,Training Time,1.0,0,1
+13,Diggle,Training Time,0.0,1,0
+14,Diggle,Inference Time,1.0,0,1
+15,Diggle,Inference Time,0.0,1,0

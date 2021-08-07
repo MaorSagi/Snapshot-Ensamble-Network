@@ -1,0 +1,17 @@
+,Dataset Name,Metric,p-value,Reject H0,Less
+0,Chatfield,Accuracy,0.605,0,1
+1,Chatfield,Accuracy,0.425,0,0
+2,Chatfield,TPR,0.756,0,1
+3,Chatfield,TPR,0.269,0,0
+4,Chatfield,FPR,0.655,0,1
+5,Chatfield,FPR,0.375,0,0
+6,Chatfield,Precision,0.421,0,1
+7,Chatfield,Precision,0.61,0,0
+8,Chatfield,AUC,0.996,0,1
+9,Chatfield,AUC,0.005,1,0
+10,Chatfield,AUPRC,0.984,0,1
+11,Chatfield,AUPRC,0.019,1,0
+12,Chatfield,Training Time,1.0,0,1
+13,Chatfield,Training Time,0.0,1,0
+14,Chatfield,Inference Time,1.0,0,1
+15,Chatfield,Inference Time,0.0,1,0

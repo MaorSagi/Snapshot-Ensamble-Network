@@ -1,0 +1,104 @@
+Dataset Name,Metric,p-value,Reject H0,Less
+Analcatdata Boxing,TPR,0.001,1,1
+Analcatdata Boxing,FPR,0.034,1,1
+Analcatdata Boxing,Precision,0.0,1,1
+Analcatdata Boxing,Training Time,0.0,1,0
+Analcatdata Boxing,Inference Time,0.0,1,0
+Blood,Accuracy,0.033,1,0
+Blood,TPR,0.048,1,1
+Blood,FPR,0.003,1,1
+Blood,AUC,0.0,1,0
+Blood,AUPRC,0.0,1,0
+Blood,Training Time,0.0,1,0
+Blood,Inference Time,0.0,1,0
+Bodyfat,Accuracy,0.0,1,1
+Bodyfat,TPR,0.0,1,1
+Bodyfat,Precision,0.0,1,1
+Bodyfat,AUC,0.0,1,1
+Bodyfat,AUPRC,0.0,1,1
+Bodyfat,Training Time,0.0,1,0
+Bodyfat,Inference Time,0.0,1,0
+Breast Cancer,Training Time,0.0,1,0
+Breast Cancer,Inference Time,0.0,1,0
+Chatfield,AUC,0.005,1,0
+Chatfield,AUPRC,0.019,1,0
+Chatfield,Training Time,0.0,1,0
+Chatfield,Inference Time,0.0,1,0
+Cloud,Accuracy,0.0,1,0
+Cloud,FPR,0.0,1,1
+Cloud,AUPRC,0.006,1,0
+Cloud,Training Time,0.0,1,0
+Cloud,Inference Time,0.0,1,0
+Diabetes,Accuracy,0.0,1,1
+Diabetes,TPR,0.0,1,1
+Diabetes,FPR,0.0,1,1
+Diabetes,Precision,0.0,1,1
+Diabetes,AUC,0.0,1,1
+Diabetes,AUPRC,0.007,1,1
+Diabetes,Training Time,0.0,1,0
+Diabetes,Inference Time,0.0,1,0
+Diggle,Accuracy,0.028,1,1
+Diggle,TPR,0.039,1,1
+Diggle,Training Time,0.0,1,0
+Diggle,Inference Time,0.0,1,0
+Kidney,Accuracy,0.0,1,1
+Kidney,FPR,0.0,1,0
+Kidney,Precision,0.002,1,1
+Kidney,AUC,0.001,1,1
+Kidney,AUPRC,0.0,1,1
+Kidney,Training Time,0.0,1,0
+Kidney,Inference Time,0.0,1,0
+Meta,Accuracy,0.003,1,0
+Meta,TPR,0.008,1,0
+Meta,FPR,0.023,1,0
+Meta,AUC,0.019,1,0
+Meta,Training Time,0.0,1,0
+Meta,Inference Time,0.0,1,0
+NO2,Accuracy,0.0,1,1
+NO2,TPR,0.048,1,1
+NO2,Precision,0.013,1,1
+NO2,AUC,0.0,1,1
+NO2,Training Time,0.0,1,0
+NO2,Inference Time,0.0,1,0
+Pima,AUC,0.0,1,0
+Pima,Training Time,0.0,1,0
+Pima,Inference Time,0.0,1,0
+Plasma Retinol,TPR,0.0,1,0
+Plasma Retinol,FPR,0.0,1,0
+Plasma Retinol,Precision,0.043,1,1
+Plasma Retinol,AUC,0.032,1,1
+Plasma Retinol,Training Time,0.0,1,0
+Plasma Retinol,Inference Time,0.0,1,0
+PM10,Accuracy,0.001,1,1
+PM10,TPR,0.004,1,0
+PM10,FPR,0.0,1,0
+PM10,Precision,0.001,1,1
+PM10,AUC,0.001,1,1
+PM10,AUPRC,0.009,1,1
+PM10,Training Time,0.0,1,0
+PM10,Inference Time,0.0,1,0
+Prnn Synth,AUC,0.009,1,0
+Prnn Synth,Training Time,0.0,1,0
+Prnn Synth,Inference Time,0.0,1,0
+Socmob,AUC,0.0,1,0
+Socmob,AUPRC,0.0,1,0
+Socmob,Training Time,0.0,1,0
+Socmob,Inference Time,0.0,1,0
+Statlog Australian Credit,TPR,0.004,1,0
+Statlog Australian Credit,FPR,0.0,1,0
+Statlog Australian Credit,Precision,0.006,1,1
+Statlog Australian Credit,AUPRC,0.0,1,1
+Statlog Australian Credit,Training Time,0.0,1,0
+Statlog Australian Credit,Inference Time,0.0,1,0
+Statlog Heart,AUC,0.022,1,0
+Statlog Heart,Training Time,0.0,1,0
+Statlog Heart,Inference Time,0.0,1,0
+Veteran,TPR,0.0,1,0
+Veteran,FPR,0.001,1,0
+Veteran,Training Time,0.0,1,0
+Veteran,Inference Time,0.0,1,0
+Visualizing Livestock,TPR,0.023,1,0
+Visualizing Livestock,AUC,0.004,1,0
+Visualizing Livestock,AUPRC,0.043,1,0
+Visualizing Livestock,Training Time,0.0,1,0
+Visualizing Livestock,Inference Time,0.0,1,0

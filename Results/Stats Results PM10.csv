@@ -1,0 +1,17 @@
+,Dataset Name,Metric,p-value,Reject H0,Less
+0,PM10,Accuracy,0.001,1,1
+1,PM10,Accuracy,0.999,0,0
+2,PM10,TPR,0.997,0,1
+3,PM10,TPR,0.004,1,0
+4,PM10,FPR,1.0,0,1
+5,PM10,FPR,0.0,1,0
+6,PM10,Precision,0.001,1,1
+7,PM10,Precision,0.999,0,0
+8,PM10,AUC,0.001,1,1
+9,PM10,AUC,0.999,0,0
+10,PM10,AUPRC,0.009,1,1
+11,PM10,AUPRC,0.993,0,0
+12,PM10,Training Time,1.0,0,1
+13,PM10,Training Time,0.0,1,0
+14,PM10,Inference Time,1.0,0,1
+15,PM10,Inference Time,0.0,1,0

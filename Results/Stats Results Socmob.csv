@@ -1,0 +1,17 @@
+,Dataset Name,Metric,p-value,Reject H0,Less
+0,Socmob,Accuracy,0.675,0,1
+1,Socmob,Accuracy,0.352,0,0
+2,Socmob,TPR,0.844,0,1
+3,Socmob,TPR,0.176,0,0
+4,Socmob,FPR,0.577,0,1
+5,Socmob,FPR,0.454,0,0
+6,Socmob,Precision,0.59,0,1
+7,Socmob,Precision,0.44,0,0
+8,Socmob,AUC,1.0,0,1
+9,Socmob,AUC,0.0,1,0
+10,Socmob,AUPRC,1.0,0,1
+11,Socmob,AUPRC,0.0,1,0
+12,Socmob,Training Time,1.0,0,1
+13,Socmob,Training Time,0.0,1,0
+14,Socmob,Inference Time,1.0,0,1
+15,Socmob,Inference Time,0.0,1,0

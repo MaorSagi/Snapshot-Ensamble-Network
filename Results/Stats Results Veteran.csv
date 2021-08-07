@@ -1,0 +1,17 @@
+,Dataset Name,Metric,p-value,Reject H0,Less
+0,Veteran,Accuracy,0.954,0,1
+1,Veteran,Accuracy,0.054,0,0
+2,Veteran,TPR,1.0,0,1
+3,Veteran,TPR,0.0,1,0
+4,Veteran,FPR,0.999,0,1
+5,Veteran,FPR,0.001,1,0
+6,Veteran,Precision,0.408,0,1
+7,Veteran,Precision,0.622,0,0
+8,Veteran,AUC,0.887,0,1
+9,Veteran,AUC,0.128,0,0
+10,Veteran,AUPRC,0.515,0,1
+11,Veteran,AUPRC,0.515,0,0
+12,Veteran,Training Time,1.0,0,1
+13,Veteran,Training Time,0.0,1,0
+14,Veteran,Inference Time,1.0,0,1
+15,Veteran,Inference Time,0.0,1,0

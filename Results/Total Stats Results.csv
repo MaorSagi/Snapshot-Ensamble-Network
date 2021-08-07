@@ -1,0 +1,321 @@
+,Dataset Name,Metric,p-value,Reject H0,Less
+0,Analcatdata Boxing,Accuracy,0.201,0,1
+1,Analcatdata Boxing,Accuracy,0.821,0,0
+2,Analcatdata Boxing,TPR,0.001,1,1
+3,Analcatdata Boxing,TPR,0.999,0,0
+4,Analcatdata Boxing,FPR,0.034,1,1
+5,Analcatdata Boxing,FPR,0.971,0,0
+6,Analcatdata Boxing,Precision,0.0,1,1
+7,Analcatdata Boxing,Precision,1.0,0,0
+8,Analcatdata Boxing,AUC,0.213,0,1
+9,Analcatdata Boxing,AUC,0.808,0,0
+10,Analcatdata Boxing,AUPRC,0.214,0,1
+11,Analcatdata Boxing,AUPRC,0.808,0,0
+12,Analcatdata Boxing,Training Time,1.0,0,1
+13,Analcatdata Boxing,Training Time,0.0,1,0
+14,Analcatdata Boxing,Inference Time,1.0,0,1
+15,Analcatdata Boxing,Inference Time,0.0,1,0
+0,Blood,Accuracy,0.972,0,1
+1,Blood,Accuracy,0.033,1,0
+2,Blood,TPR,0.048,1,1
+3,Blood,TPR,0.96,0,0
+4,Blood,FPR,0.003,1,1
+5,Blood,FPR,0.998,0,0
+6,Blood,Precision,0.089,0,1
+7,Blood,Precision,0.923,0,0
+8,Blood,AUC,1.0,0,1
+9,Blood,AUC,0.0,1,0
+10,Blood,AUPRC,1.0,0,1
+11,Blood,AUPRC,0.0,1,0
+12,Blood,Training Time,1.0,0,1
+13,Blood,Training Time,0.0,1,0
+14,Blood,Inference Time,1.0,0,1
+15,Blood,Inference Time,0.0,1,0
+0,Bodyfat,Accuracy,0.0,1,1
+1,Bodyfat,Accuracy,1.0,0,0
+2,Bodyfat,TPR,0.0,1,1
+3,Bodyfat,TPR,1.0,0,0
+4,Bodyfat,FPR,1.0,0,1
+5,Bodyfat,FPR,1.0,0,0
+6,Bodyfat,Precision,0.0,1,1
+7,Bodyfat,Precision,1.0,0,0
+8,Bodyfat,AUC,0.0,1,1
+9,Bodyfat,AUC,1.0,0,0
+10,Bodyfat,AUPRC,0.0,1,1
+11,Bodyfat,AUPRC,1.0,0,0
+12,Bodyfat,Training Time,1.0,0,1
+13,Bodyfat,Training Time,0.0,1,0
+14,Bodyfat,Inference Time,1.0,0,1
+15,Bodyfat,Inference Time,0.0,1,0
+0,Breast Cancer,Accuracy,0.809,0,1
+1,Breast Cancer,Accuracy,0.212,0,0
+2,Breast Cancer,TPR,0.245,0,1
+3,Breast Cancer,TPR,0.778,0,0
+4,Breast Cancer,FPR,0.061,0,1
+5,Breast Cancer,FPR,0.948,0,0
+6,Breast Cancer,Precision,0.591,0,1
+7,Breast Cancer,Precision,0.439,0,0
+8,Breast Cancer,AUC,0.939,0,1
+9,Breast Cancer,AUC,0.07,0,0
+10,Breast Cancer,AUPRC,0.828,0,1
+11,Breast Cancer,AUPRC,0.192,0,0
+12,Breast Cancer,Training Time,1.0,0,1
+13,Breast Cancer,Training Time,0.0,1,0
+14,Breast Cancer,Inference Time,1.0,0,1
+15,Breast Cancer,Inference Time,0.0,1,0
+0,Chatfield,Accuracy,0.605,0,1
+1,Chatfield,Accuracy,0.425,0,0
+2,Chatfield,TPR,0.756,0,1
+3,Chatfield,TPR,0.269,0,0
+4,Chatfield,FPR,0.655,0,1
+5,Chatfield,FPR,0.375,0,0
+6,Chatfield,Precision,0.421,0,1
+7,Chatfield,Precision,0.61,0,0
+8,Chatfield,AUC,0.996,0,1
+9,Chatfield,AUC,0.005,1,0
+10,Chatfield,AUPRC,0.984,0,1
+11,Chatfield,AUPRC,0.019,1,0
+12,Chatfield,Training Time,1.0,0,1
+13,Chatfield,Training Time,0.0,1,0
+14,Chatfield,Inference Time,1.0,0,1
+15,Chatfield,Inference Time,0.0,1,0
+0,Cloud,Accuracy,1.0,0,1
+1,Cloud,Accuracy,0.0,1,0
+2,Cloud,TPR,0.184,0,1
+3,Cloud,TPR,0.864,0,0
+4,Cloud,FPR,0.0,1,1
+5,Cloud,FPR,1.0,0,0
+6,Cloud,Precision,0.184,0,1
+7,Cloud,Precision,0.864,0,0
+8,Cloud,AUC,0.935,0,1
+9,Cloud,AUC,0.075,0,0
+10,Cloud,AUPRC,0.996,0,1
+11,Cloud,AUPRC,0.006,1,0
+12,Cloud,Training Time,1.0,0,1
+13,Cloud,Training Time,0.0,1,0
+14,Cloud,Inference Time,1.0,0,1
+15,Cloud,Inference Time,0.0,1,0
+0,Diabetes,Accuracy,0.0,1,1
+1,Diabetes,Accuracy,1.0,0,0
+2,Diabetes,TPR,0.0,1,1
+3,Diabetes,TPR,1.0,0,0
+4,Diabetes,FPR,0.0,1,1
+5,Diabetes,FPR,1.0,0,0
+6,Diabetes,Precision,0.0,1,1
+7,Diabetes,Precision,1.0,0,0
+8,Diabetes,AUC,0.0,1,1
+9,Diabetes,AUC,1.0,0,0
+10,Diabetes,AUPRC,0.007,1,1
+11,Diabetes,AUPRC,0.994,0,0
+12,Diabetes,Training Time,1.0,0,1
+13,Diabetes,Training Time,0.0,1,0
+14,Diabetes,Inference Time,1.0,0,1
+15,Diabetes,Inference Time,0.0,1,0
+0,Diggle,Accuracy,0.028,1,1
+1,Diggle,Accuracy,0.977,0,0
+2,Diggle,TPR,0.039,1,1
+3,Diggle,TPR,0.97,0,0
+4,Diggle,FPR,0.835,0,1
+5,Diggle,FPR,0.194,0,0
+6,Diggle,Precision,0.194,0,1
+7,Diggle,Precision,0.835,0,0
+8,Diggle,AUC,0.864,0,1
+9,Diggle,AUC,0.184,0,0
+10,Diggle,AUPRC,0.864,0,1
+11,Diggle,AUPRC,0.184,0,0
+12,Diggle,Training Time,1.0,0,1
+13,Diggle,Training Time,0.0,1,0
+14,Diggle,Inference Time,1.0,0,1
+15,Diggle,Inference Time,0.0,1,0
+0,Kidney,Accuracy,0.0,1,1
+1,Kidney,Accuracy,1.0,0,0
+2,Kidney,TPR,0.749,0,1
+3,Kidney,TPR,0.277,0,0
+4,Kidney,FPR,1.0,0,1
+5,Kidney,FPR,0.0,1,0
+6,Kidney,Precision,0.002,1,1
+7,Kidney,Precision,0.998,0,0
+8,Kidney,AUC,0.001,1,1
+9,Kidney,AUC,0.999,0,0
+10,Kidney,AUPRC,0.0,1,1
+11,Kidney,AUPRC,1.0,0,0
+12,Kidney,Training Time,1.0,0,1
+13,Kidney,Training Time,0.0,1,0
+14,Kidney,Inference Time,1.0,0,1
+15,Kidney,Inference Time,0.0,1,0
+0,Meta,Accuracy,0.998,0,1
+1,Meta,Accuracy,0.003,1,0
+2,Meta,TPR,0.994,0,1
+3,Meta,TPR,0.008,1,0
+4,Meta,FPR,0.981,0,1
+5,Meta,FPR,0.023,1,0
+6,Meta,Precision,0.703,0,1
+7,Meta,Precision,0.324,0,0
+8,Meta,AUC,0.984,0,1
+9,Meta,AUC,0.019,1,0
+10,Meta,AUPRC,0.93,0,1
+11,Meta,AUPRC,0.081,0,0
+12,Meta,Training Time,1.0,0,1
+13,Meta,Training Time,0.0,1,0
+14,Meta,Inference Time,1.0,0,1
+15,Meta,Inference Time,0.0,1,0
+0,NO2,Accuracy,0.0,1,1
+1,NO2,Accuracy,1.0,0,0
+2,NO2,TPR,0.048,1,1
+3,NO2,TPR,0.959,0,0
+4,NO2,FPR,0.073,0,1
+5,NO2,FPR,0.937,0,0
+6,NO2,Precision,0.013,1,1
+7,NO2,Precision,0.99,0,0
+8,NO2,AUC,0.0,1,1
+9,NO2,AUC,1.0,0,0
+10,NO2,AUPRC,0.061,0,1
+11,NO2,AUPRC,0.948,0,0
+12,NO2,Training Time,1.0,0,1
+13,NO2,Training Time,0.0,1,0
+14,NO2,Inference Time,1.0,0,1
+15,NO2,Inference Time,0.0,1,0
+0,Pima,Accuracy,0.662,0,1
+1,Pima,Accuracy,0.366,0,0
+2,Pima,TPR,0.5,0,1
+3,Pima,TPR,0.53,0,0
+4,Pima,FPR,0.323,0,1
+5,Pima,FPR,0.704,0,0
+6,Pima,Precision,0.634,0,1
+7,Pima,Precision,0.395,0,0
+8,Pima,AUC,1.0,0,1
+9,Pima,AUC,0.0,1,0
+10,Pima,AUPRC,0.786,0,1
+11,Pima,AUPRC,0.236,0,0
+12,Pima,Training Time,1.0,0,1
+13,Pima,Training Time,0.0,1,0
+14,Pima,Inference Time,1.0,0,1
+15,Pima,Inference Time,0.0,1,0
+0,Plasma Retinol,Accuracy,0.5,0,1
+1,Plasma Retinol,Accuracy,0.531,0,0
+2,Plasma Retinol,TPR,1.0,0,1
+3,Plasma Retinol,TPR,0.0,1,0
+4,Plasma Retinol,FPR,1.0,0,1
+5,Plasma Retinol,FPR,0.0,1,0
+6,Plasma Retinol,Precision,0.043,1,1
+7,Plasma Retinol,Precision,0.964,0,0
+8,Plasma Retinol,AUC,0.032,1,1
+9,Plasma Retinol,AUC,0.973,0,0
+10,Plasma Retinol,AUPRC,0.093,0,1
+11,Plasma Retinol,AUPRC,0.919,0,0
+12,Plasma Retinol,Training Time,1.0,0,1
+13,Plasma Retinol,Training Time,0.0,1,0
+14,Plasma Retinol,Inference Time,1.0,0,1
+15,Plasma Retinol,Inference Time,0.0,1,0
+0,PM10,Accuracy,0.001,1,1
+1,PM10,Accuracy,0.999,0,0
+2,PM10,TPR,0.997,0,1
+3,PM10,TPR,0.004,1,0
+4,PM10,FPR,1.0,0,1
+5,PM10,FPR,0.0,1,0
+6,PM10,Precision,0.001,1,1
+7,PM10,Precision,0.999,0,0
+8,PM10,AUC,0.001,1,1
+9,PM10,AUC,0.999,0,0
+10,PM10,AUPRC,0.009,1,1
+11,PM10,AUPRC,0.993,0,0
+12,PM10,Training Time,1.0,0,1
+13,PM10,Training Time,0.0,1,0
+14,PM10,Inference Time,1.0,0,1
+15,PM10,Inference Time,0.0,1,0
+0,Prnn Synth,Accuracy,0.692,0,1
+1,Prnn Synth,Accuracy,0.336,0,0
+2,Prnn Synth,TPR,0.73,0,1
+3,Prnn Synth,TPR,0.296,0,0
+4,Prnn Synth,FPR,0.831,0,1
+5,Prnn Synth,FPR,0.189,0,0
+6,Prnn Synth,Precision,0.351,0,1
+7,Prnn Synth,Precision,0.676,0,0
+8,Prnn Synth,AUC,0.992,0,1
+9,Prnn Synth,AUC,0.009,1,0
+10,Prnn Synth,AUPRC,0.93,0,1
+11,Prnn Synth,AUPRC,0.081,0,0
+12,Prnn Synth,Training Time,1.0,0,1
+13,Prnn Synth,Training Time,0.0,1,0
+14,Prnn Synth,Inference Time,1.0,0,1
+15,Prnn Synth,Inference Time,0.0,1,0
+0,Socmob,Accuracy,0.675,0,1
+1,Socmob,Accuracy,0.352,0,0
+2,Socmob,TPR,0.844,0,1
+3,Socmob,TPR,0.176,0,0
+4,Socmob,FPR,0.577,0,1
+5,Socmob,FPR,0.454,0,0
+6,Socmob,Precision,0.59,0,1
+7,Socmob,Precision,0.44,0,0
+8,Socmob,AUC,1.0,0,1
+9,Socmob,AUC,0.0,1,0
+10,Socmob,AUPRC,1.0,0,1
+11,Socmob,AUPRC,0.0,1,0
+12,Socmob,Training Time,1.0,0,1
+13,Socmob,Training Time,0.0,1,0
+14,Socmob,Inference Time,1.0,0,1
+15,Socmob,Inference Time,0.0,1,0
+0,Statlog Australian Credit,Accuracy,0.47,0,1
+1,Statlog Australian Credit,Accuracy,0.561,0,0
+2,Statlog Australian Credit,TPR,0.997,0,1
+3,Statlog Australian Credit,TPR,0.004,1,0
+4,Statlog Australian Credit,FPR,1.0,0,1
+5,Statlog Australian Credit,FPR,0.0,1,0
+6,Statlog Australian Credit,Precision,0.006,1,1
+7,Statlog Australian Credit,Precision,0.995,0,0
+8,Statlog Australian Credit,AUC,0.661,0,1
+9,Statlog Australian Credit,AUC,0.367,0,0
+10,Statlog Australian Credit,AUPRC,0.0,1,1
+11,Statlog Australian Credit,AUPRC,1.0,0,0
+12,Statlog Australian Credit,Training Time,1.0,0,1
+13,Statlog Australian Credit,Training Time,0.0,1,0
+14,Statlog Australian Credit,Inference Time,1.0,0,1
+15,Statlog Australian Credit,Inference Time,0.0,1,0
+0,Statlog Heart,Accuracy,0.454,0,1
+1,Statlog Heart,Accuracy,0.577,0,0
+2,Statlog Heart,TPR,0.546,0,1
+3,Statlog Heart,TPR,0.485,0,0
+4,Statlog Heart,FPR,0.564,0,1
+5,Statlog Heart,FPR,0.468,0,0
+6,Statlog Heart,Precision,0.41,0,1
+7,Statlog Heart,Precision,0.619,0,0
+8,Statlog Heart,AUC,0.981,0,1
+9,Statlog Heart,AUC,0.022,1,0
+10,Statlog Heart,AUPRC,0.764,0,1
+11,Statlog Heart,AUPRC,0.26,0,0
+12,Statlog Heart,Training Time,1.0,0,1
+13,Statlog Heart,Training Time,0.0,1,0
+14,Statlog Heart,Inference Time,1.0,0,1
+15,Statlog Heart,Inference Time,0.0,1,0
+0,Veteran,Accuracy,0.954,0,1
+1,Veteran,Accuracy,0.054,0,0
+2,Veteran,TPR,1.0,0,1
+3,Veteran,TPR,0.0,1,0
+4,Veteran,FPR,0.999,0,1
+5,Veteran,FPR,0.001,1,0
+6,Veteran,Precision,0.408,0,1
+7,Veteran,Precision,0.622,0,0
+8,Veteran,AUC,0.887,0,1
+9,Veteran,AUC,0.128,0,0
+10,Veteran,AUPRC,0.515,0,1
+11,Veteran,AUPRC,0.515,0,0
+12,Veteran,Training Time,1.0,0,1
+13,Veteran,Training Time,0.0,1,0
+14,Veteran,Inference Time,1.0,0,1
+15,Veteran,Inference Time,0.0,1,0
+0,Visualizing Livestock,Accuracy,0.833,0,1
+1,Visualizing Livestock,Accuracy,0.188,0,0
+2,Visualizing Livestock,TPR,0.981,0,1
+3,Visualizing Livestock,TPR,0.023,1,0
+4,Visualizing Livestock,FPR,0.69,0,1
+5,Visualizing Livestock,FPR,0.345,0,0
+6,Visualizing Livestock,Precision,0.652,0,1
+7,Visualizing Livestock,Precision,0.378,0,0
+8,Visualizing Livestock,AUC,0.997,0,1
+9,Visualizing Livestock,AUC,0.004,1,0
+10,Visualizing Livestock,AUPRC,0.963,0,1
+11,Visualizing Livestock,AUPRC,0.043,1,0
+12,Visualizing Livestock,Training Time,1.0,0,1
+13,Visualizing Livestock,Training Time,0.0,1,0
+14,Visualizing Livestock,Inference Time,1.0,0,1
+15,Visualizing Livestock,Inference Time,0.0,1,0

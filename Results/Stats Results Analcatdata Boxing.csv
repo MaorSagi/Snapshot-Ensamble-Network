@@ -1,0 +1,17 @@
+,Dataset Name,Metric,p-value,Reject H0,Less
+0,Analcatdata Boxing,Accuracy,0.201,0,1
+1,Analcatdata Boxing,Accuracy,0.821,0,0
+2,Analcatdata Boxing,TPR,0.001,1,1
+3,Analcatdata Boxing,TPR,0.999,0,0
+4,Analcatdata Boxing,FPR,0.034,1,1
+5,Analcatdata Boxing,FPR,0.971,0,0
+6,Analcatdata Boxing,Precision,0.0,1,1
+7,Analcatdata Boxing,Precision,1.0,0,0
+8,Analcatdata Boxing,AUC,0.213,0,1
+9,Analcatdata Boxing,AUC,0.808,0,0
+10,Analcatdata Boxing,AUPRC,0.214,0,1
+11,Analcatdata Boxing,AUPRC,0.808,0,0
+12,Analcatdata Boxing,Training Time,1.0,0,1
+13,Analcatdata Boxing,Training Time,0.0,1,0
+14,Analcatdata Boxing,Inference Time,1.0,0,1
+15,Analcatdata Boxing,Inference Time,0.0,1,0

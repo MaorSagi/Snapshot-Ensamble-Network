@@ -1,0 +1,17 @@
+,Dataset Name,Metric,p-value,Reject H0,Less
+0,Blood,Accuracy,0.972,0,1
+1,Blood,Accuracy,0.033,1,0
+2,Blood,TPR,0.048,1,1
+3,Blood,TPR,0.96,0,0
+4,Blood,FPR,0.003,1,1
+5,Blood,FPR,0.998,0,0
+6,Blood,Precision,0.089,0,1
+7,Blood,Precision,0.923,0,0
+8,Blood,AUC,1.0,0,1
+9,Blood,AUC,0.0,1,0
+10,Blood,AUPRC,1.0,0,1
+11,Blood,AUPRC,0.0,1,0
+12,Blood,Training Time,1.0,0,1
+13,Blood,Training Time,0.0,1,0
+14,Blood,Inference Time,1.0,0,1
+15,Blood,Inference Time,0.0,1,0

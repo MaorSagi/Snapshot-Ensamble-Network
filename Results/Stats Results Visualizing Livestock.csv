@@ -1,0 +1,17 @@
+,Dataset Name,Metric,p-value,Reject H0,Less
+0,Visualizing Livestock,Accuracy,0.833,0,1
+1,Visualizing Livestock,Accuracy,0.188,0,0
+2,Visualizing Livestock,TPR,0.981,0,1
+3,Visualizing Livestock,TPR,0.023,1,0
+4,Visualizing Livestock,FPR,0.69,0,1
+5,Visualizing Livestock,FPR,0.345,0,0
+6,Visualizing Livestock,Precision,0.652,0,1
+7,Visualizing Livestock,Precision,0.378,0,0
+8,Visualizing Livestock,AUC,0.997,0,1
+9,Visualizing Livestock,AUC,0.004,1,0
+10,Visualizing Livestock,AUPRC,0.963,0,1
+11,Visualizing Livestock,AUPRC,0.043,1,0
+12,Visualizing Livestock,Training Time,1.0,0,1
+13,Visualizing Livestock,Training Time,0.0,1,0
+14,Visualizing Livestock,Inference Time,1.0,0,1
+15,Visualizing Livestock,Inference Time,0.0,1,0
