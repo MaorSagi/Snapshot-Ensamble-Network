@@ -1,6 +1,6 @@
 # Snapshot-Ensamble-Network
 Based on the paper of Huang et al., Snapshot Ensembles: Train 1, get M for free. I built a snapshot ensamble to structed data and compared it to Random Forest.
-
+You can find the paper [here](https://arxiv.org/pdf/1704.00109.pdf), and the report in the Machine Learning - Final Project Report.pdf file attached to this project ([link](https://arxiv.org/pdf/1704.00109.pdf)).
 
 <p>Running instructions:</p>
 <ol>
